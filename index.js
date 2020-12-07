@@ -1,4 +1,7 @@
 //Javascript code here:
-function test(){
+function test() {
   //test
+}
+function yazeen() {
+  //yazeen code
 }
