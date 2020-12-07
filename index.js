@@ -9,3 +9,4 @@ function ned() {
   //ned code
 }
 console.log("From Yazeen");
+console.log("From Ned");
