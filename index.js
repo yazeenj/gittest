@@ -5,3 +5,6 @@ function test() {
 function yazeen() {
   //yazeen code
 }
+function ned(){
+  //ned code
+}
