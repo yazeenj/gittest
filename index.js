@@ -1,6 +1,9 @@
 //Javascript code here:
-function test(){
+function test() {
   //test
+}
+function yazeen() {
+  //yazeen code
 }
 function ned(){
   //ned code
