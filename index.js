@@ -5,6 +5,7 @@ function test() {
 function yazeen() {
   //yazeen code
 }
-function ned(){
+function ned() {
   //ned code
 }
+console.log("From Yazeen");
