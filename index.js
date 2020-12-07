@@ -8,3 +8,4 @@ function yazeen() {
 function ned(){
   //ned code
 }
+console.log("From Ned");
