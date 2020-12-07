@@ -2,3 +2,6 @@
 function test(){
   //test
 }
+function ned(){
+  //ned code
+}
